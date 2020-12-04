@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-11-26 15:20:30 -0600",
+      "minecraft:mountains": "2020-11-26 15:21:12 -0600",
+      "minecraft:lukewarm_ocean": "2020-11-26 15:20:47 -0600",
+      "minecraft:snowy_taiga": "2020-11-26 15:21:01 -0600",
+      "minecraft:wooded_hills": "2020-11-26 15:20:59 -0600",
+      "minecraft:snowy_taiga_hills": "2020-11-26 15:21:01 -0600",
+      "minecraft:plains": "2020-11-26 15:19:55 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

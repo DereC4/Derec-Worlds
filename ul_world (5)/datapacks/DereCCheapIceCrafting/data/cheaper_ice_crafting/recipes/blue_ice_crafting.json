@@ -1,0 +1,26 @@
+{
+  "group": "cheaper_ice_crafting",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:packed_ice"
+    },
+    "1": {
+      "item": "minecraft:packed_ice"
+    },
+    "2": {
+      "item": "minecraft:packed_ice"
+    },
+    "3": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "result": {
+    "item": "minecraft:blue_ice",
+    "count": 2
+  }
+}

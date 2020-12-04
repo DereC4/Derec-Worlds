@@ -1,0 +1,147 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+        {
+            "Transport": 1
+        }
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        },
+        {
+            "Points": 1531,
+            "Faction": 6
+        },
+        {
+            "Points": 508,
+            "Faction": 8
+        },
+        {
+            "Points": 500,
+            "Faction": 10
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "DereC_",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "edb4b2e7-814b-4ce4-bac5-b02a16221689",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 1
+        },
+        {
+            "Dialog": 2
+        },
+        {
+            "Dialog": 3
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 14
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 22
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 25
+        },
+        {
+            "Dialog": 28
+        },
+        {
+            "Dialog": 30
+        },
+        {
+            "Dialog": 31
+        },
+        {
+            "Dialog": 32
+        },
+        {
+            "Dialog": 33
+        },
+        {
+            "Dialog": 34
+        },
+        {
+            "Dialog": 35
+        },
+        {
+            "Dialog": 36
+        },
+        {
+            "Dialog": 38
+        },
+        {
+            "Dialog": 39
+        },
+        {
+            "Dialog": 40
+        },
+        {
+            "Dialog": 41
+        },
+        {
+            "Dialog": 42
+        }
+    ]
+}

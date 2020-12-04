@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-10-10 16:58:45 -0500",
+      "minecraft:snowy_taiga": "2020-10-10 16:59:00 -0500",
+      "minecraft:plains": "2020-10-10 16:57:40 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
