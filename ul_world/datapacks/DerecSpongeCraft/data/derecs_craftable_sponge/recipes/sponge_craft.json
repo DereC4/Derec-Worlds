@@ -1,0 +1,42 @@
+{
+  "group": "derecs_craftable_sponge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dead_horn_coral_block"
+    },
+    "1": {
+      "item": "minecraft:horn_coral_block"
+    },
+    "2": {
+      "item": "minecraft:dead_horn_coral_block"
+    },
+    "3": {
+      "item": "minecraft:horn_coral_block"
+    },
+    "4": {
+      "item": "minecraft:water_bucket"
+    },
+    "5": {
+      "item": "minecraft:horn_coral_block"
+    },
+    "6": {
+      "item": "minecraft:dead_horn_coral_block"
+    },
+    "7": {
+      "item": "minecraft:horn_coral_block"
+    },
+    "8": {
+      "item": "minecraft:dead_horn_coral_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:sponge",
+    "count": 2
+  }
+}

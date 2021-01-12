@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:grass"
+    },
+    "title": "Little House on the Prairie",
+    "description": "Honestly I never liked plains that much but that's just me",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "explored_plains": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "plains"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:adventure/adventuring_time"
+}

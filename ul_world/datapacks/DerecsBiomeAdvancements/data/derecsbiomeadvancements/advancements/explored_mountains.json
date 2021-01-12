@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:snow_block"
+    },
+    "title": "Will you Everest?",
+    "description": "Ever... rest? Get it? oki'llshowmyselfout",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "explored_mountains": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "mountains"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:adventure/adventuring_time"
+}

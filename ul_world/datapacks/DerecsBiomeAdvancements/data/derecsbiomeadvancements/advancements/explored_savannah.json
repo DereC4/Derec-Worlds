@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:acacia_sapling"
+    },
+    "title": "Sir, there has been a murder...",
+    "description": "and you are a suspect. (Creed proceedes to drive away)",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "explored_savannah": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "savanna"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:adventure/adventuring_time"
+}

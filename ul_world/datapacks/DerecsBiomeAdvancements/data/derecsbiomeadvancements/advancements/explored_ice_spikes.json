@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:snow_block"
+    },
+    "title": "Snow Day",
+    "description": "So snowy",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "explored_ice_spikes": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "snowy_tundra"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:adventure/adventuring_time"
+}

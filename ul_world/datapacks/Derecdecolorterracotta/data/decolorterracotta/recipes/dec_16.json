@@ -1,0 +1,19 @@
+{
+  "group": "decolorterracotta",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_terracotta"
+    },
+    "1": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:terracotta",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:crimson_nylium"
+    },
+    "title": "The Crimson",
+    "description": "Hope you don't awaken the Brain of c- oh wait wrong game",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "explored_crimson_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "crimson_forest"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:nether/explore_nether"
+}
